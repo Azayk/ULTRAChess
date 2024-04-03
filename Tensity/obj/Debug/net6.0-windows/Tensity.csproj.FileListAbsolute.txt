@@ -1,0 +1,17 @@
+E:\Program Code\Tensity\bin\Debug\net6.0-windows\Tensity.exe
+E:\Program Code\Tensity\bin\Debug\net6.0-windows\Tensity.deps.json
+E:\Program Code\Tensity\bin\Debug\net6.0-windows\Tensity.runtimeconfig.json
+E:\Program Code\Tensity\bin\Debug\net6.0-windows\Tensity.dll
+E:\Program Code\Tensity\bin\Debug\net6.0-windows\Tensity.pdb
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.Form1.resources
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.csproj.GenerateResource.cache
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.AssemblyInfoInputs.cache
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.AssemblyInfo.cs
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.csproj.CoreCompileInputs.cache
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.dll
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\refint\Tensity.dll
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.pdb
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.genruntimeconfig.cache
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\ref\Tensity.dll
+E:\Program Code\Tensity\obj\Debug\net6.0-windows\Tensity.Properties.Resources.resources
